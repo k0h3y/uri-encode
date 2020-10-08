@@ -1,0 +1,9 @@
+{
+  "name": "uri-encode",
+  "version": "1.0.0",
+  "main": "index.js",
+  "bin": {
+    "euri": "./bin/encode-uri.js",
+    "duri": "./bin/decode-uri.js"
+  }
+}
